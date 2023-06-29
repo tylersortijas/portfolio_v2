@@ -24,29 +24,29 @@ function AboutMe() {
                     <div className='flex flex-col items-start justify-center gap-5'>
                         <h2 className='font-bold text-3xl tracking-wider'>My Skills</h2>
                         <div className='flex flex-col gap-2'>
-                            <ul className='flex items-center text-gray-700 gap-4 text-xl'>
+                            <ul className='flex items-center text-gray-700 gap-4 lg:text-xl text-sm'>
                                 <li className='bg-gray-300 rounded px-4 py-2'>HTML</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>CSS</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Javascript</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Java</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Python</li>
                             </ul>
-                            <ul className='flex items-center text-gray-700 gap-4 text-xl'>
+                            <ul className='flex items-center text-gray-700 gap-4 lg:text-xl text-sm'>
                                 <li className='bg-gray-300 rounded px-4 py-2'>React</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Tailwind</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Django</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Flask</li>
                             </ul>
-                            <ul className='flex items-center text-gray-700 gap-4 text-xl'>
+                            <ul className='flex items-center text-gray-700 gap-4 lg:text-xl text-sm'>
                                 <li className='bg-gray-300 rounded px-4 py-2'>NodeJs</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Express Basics</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>MongoDB Basics</li>
                             </ul>
-                            <ul className='flex items-center text-gray-700 gap-4 text-xl'>
+                            <ul className='flex items-center text-gray-700 gap-4 lg:text-xl text-sm'>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Bootstrap</li>
                                 <li className='bg-gray-300 rounded px-4 py-2'>APIs</li>
                             </ul>
-                            <ul className='flex items-center text-gray-700 gap-4 text-xl'>
+                            <ul className='flex items-center text-gray-700 gap-4 lg:text-xl text-sm'>
                                 <li className='bg-gray-300 rounded px-4 py-2'>Command Line</li>
                             </ul>
                         </div>
