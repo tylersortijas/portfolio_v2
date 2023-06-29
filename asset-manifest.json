@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7123963b.css",
-    "main.js": "/static/js/main.d8f4716d.js",
+    "main.css": "/static/css/main.e274667a.css",
+    "main.js": "/static/js/main.5497bf60.js",
     "static/media/premier_auto_spa.jpg": "/static/media/premier_auto_spa.4956b415d9a524bb48ac.jpg",
     "static/media/carventi.jpg": "/static/media/carventi.5afb889242c9036dee63.jpg",
     "static/media/headshot.png": "/static/media/headshot.beaadce13c9e31c73941.png",
@@ -9,11 +9,11 @@
     "static/media/tindog.jpg": "/static/media/tindog.ecfc9f5f4c539520a1f5.jpg",
     "static/media/ecommerce-shop.jpg": "/static/media/ecommerce-shop.7d54d85603a01d3eb899.jpg",
     "index.html": "/index.html",
-    "main.7123963b.css.map": "/static/css/main.7123963b.css.map",
-    "main.d8f4716d.js.map": "/static/js/main.d8f4716d.js.map"
+    "main.e274667a.css.map": "/static/css/main.e274667a.css.map",
+    "main.5497bf60.js.map": "/static/js/main.5497bf60.js.map"
   },
   "entrypoints": [
-    "static/css/main.7123963b.css",
-    "static/js/main.d8f4716d.js"
+    "static/css/main.e274667a.css",
+    "static/js/main.5497bf60.js"
   ]
 }
